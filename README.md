@@ -1,3 +1,2 @@
 ## Hi there 👋
-
-![Bagde do TryHackMe](https://tryhackme-badges.s3.amazonaws.com/fitgirl.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/fitgirl.png" alt="Your Image Badge" />
